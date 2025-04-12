@@ -53,3 +53,7 @@
 Баллы: 1000
 
 Ожидаемая скидка: 10%
+
+**Результаты выполнения:**
+![image](https://github.com/user-attachments/assets/8f540d88-94a0-4aba-a7b5-b8d5d81379f0)
+
